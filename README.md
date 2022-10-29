@@ -13,7 +13,7 @@
 |-----------|---------|
 | Python 🐍 | yes     |
 | LUA 🌙    | yes     |
-| C# 📋     | no      |
+| C# 📋     | learning      |
 
 ##### What do I know how to do best
 
