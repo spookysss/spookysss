@@ -5,7 +5,7 @@
 * Brazil ⛱️
 * Under 16y 🏫
 * Cheat developer 🖥️
-* Worked with Hydra Network 🐉
+* Working with Hydra Network 🐉
 
 # Programming
 
