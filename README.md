@@ -18,7 +18,7 @@
 ##### What do I know how to do best
 
 * 🐍 Python - Creating Discord bots
-* 🌙 LUA - Develop Roblox cheats
+* 🌙 LUA - Develop Roblox cheats and games
 * 📋 C# - VS Forms
 
 ## My history with programming
