@@ -4,8 +4,8 @@
 
 * Brazil ⛱️
 * Under 16y 🏫
-* Cheat developer 🖥️
-* Working with Hydra Network 🐉
+* Cheat Developer and Game Developer 🖥️
+* For hire❗
 
 # Programming
 
@@ -14,12 +14,14 @@
 | Python 🐍 | yes     |
 | LUA 🌙    | yes     |
 | C# 📋     | learning      |
+| C++ ➕     | learning      |
 
 ##### What do I know how to do best
 
 * 🐍 Python - Creating Discord bots
 * 🌙 LUA - Develop Roblox cheats and games
 * 📋 C# - VS Forms
+* ➕ C++ - Learning how to manipulate memory
 
 ## My history with programming
 
