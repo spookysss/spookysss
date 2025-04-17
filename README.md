@@ -3,7 +3,6 @@
 # About me
 
 * Brazil ⛱️
-* Under 16y 🏫
 * Cheat Developer and Game Developer 🖥️
 * For hire❗
 
