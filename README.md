@@ -4,7 +4,6 @@
 
 * Brazil ⛱️
 * Cheat Developer and Game Developer 🖥️
-* For hire❗
 
 # Programming
 
